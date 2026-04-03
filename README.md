@@ -2,8 +2,6 @@
 
 **小红书 @小灯只工作不上班 的 Claude Code Skills 合集**
 
-把书籍、方法论中提炼出来的智慧，变成可交互、可复用的 Claude Code Skills。
-
 ## Skills目录
 
 | Skill | 一句话介绍 |
