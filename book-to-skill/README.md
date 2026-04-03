@@ -25,11 +25,8 @@
 ### 方法一：直接复制到你的 Claude Code skills 目录
 
 ```bash
-# 克隆仓库
-git clone https://github.com/你的用户名/my-skills.git
-
-# 复制 book-to-skill 到你的 skills 目录
-cp -r my-skills/skills/book-to-skill ~/.claude/skills/
+git clone https://github.com/liigoQi/my-skills.git
+cp -r my-skills/book-to-skill ~/.claude/skills/
 ```
 
 ### 方法二：手动安装
